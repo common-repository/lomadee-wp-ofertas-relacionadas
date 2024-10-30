@@ -1,0 +1,199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lomadee WP - Ofertas Relacionadas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-14 09:58-0300\n"
+"PO-Revision-Date: 2010-12-14 14:18-0300\n"
+"Last-Translator: Daniel <daniel@apiki.com>\n"
+"Language-Team: Apiki WordPress <daniel@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:19
+#: ../lomadee-wp-ofertas-relacionadas-window.php:16
+msgid "Lomadee WP - Ofertas Relacionadas"
+msgstr "Lomadee WP - Ofertas Relacionadas"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:22
+msgid "Settings updated successfully!"
+msgstr "Configurações atualizadas com sucesso!"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:26
+msgid "Request options"
+msgstr "Opções de requisição"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:31
+msgid "Source ID"
+msgstr ""
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:35
+msgid "The Source ID is used to indentify the publisher that uses this plugin. <a href=\"http://br.lomadee.com/\">Get a Source ID</a>."
+msgstr "Usado para identificar o publicador que está usando este plugin. <a href=\"http://br.lomadee.com/\">Obtenha um Source ID</a>."
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:40
+msgid "Country"
+msgstr "País"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:48
+msgid "Origin country of products."
+msgstr "País de origem dos produtos."
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:53
+msgid "Display options"
+msgstr "Opções de visualização"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:58
+msgid "Standard View"
+msgstr "Padrão de visualização"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:61
+msgid "Automatic. Uses the post tags related to the post."
+msgstr "Automático. Usa as tags relacionadas aos posts."
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:62
+msgid "Manual. Uses a shortcode like it [lomadeewpro category='xxx' keywords='keyword, keyword2'] defined in a button in the post editor toolbar."
+msgstr "Manual. Usa um shortcode como essse: [lomadeewpro category='xxx' keywords='keyword, keyword2'], definido em um botão na barra de edição de posts."
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:67
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:72
+msgid "About the products"
+msgstr "Sobre os produtos"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:76
+msgid "Display product names"
+msgstr "Exibir nomes dos produtos"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:80
+msgid "Display price of products"
+msgstr "Exibir preços dos produtos"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:84
+msgid "Display price plots of products"
+msgstr "Exibir preços das parcelas dos produtos"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:88
+msgid "Display the buttons \"Buy\""
+msgstr "Exibir botões de \"Comprar\""
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:92
+msgid "Display images of products"
+msgstr "Exibir imagens dos produtos"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:99
+msgid "Number of products to display"
+msgstr "Número de produtos a exibir"
+
+#: ../lomadee-wp-ofertas-relacionadas-settings.php:112
+msgid "Save settings"
+msgstr "Salvar configurações"
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:26
+msgid "Relate offers"
+msgstr "Relacionar ofertas"
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:35
+msgid "Category"
+msgstr "Categoria"
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:47
+msgid "No category found."
+msgstr "Nenhuma categoria encontrada."
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:53
+msgid "Keywords"
+msgstr "Palavras-chave"
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:64
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../lomadee-wp-ofertas-relacionadas-window.php:67
+msgid "Insert"
+msgstr "Inserir"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:69
+msgid "<h1>Lomadee WP - Ofertas Relacionadas</h1>"
+msgstr "<h1>Lomadee WP - Ofertas Relacionadas</h1>"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:70
+msgid "<div id=\"message\" class=\"error\"><p>This plugin requires that PHP cURL is enabled. Learn more about <a href=\"http://www.php.net/manual/pt_BR/book.curl.php\">cURL</a> and contact your hosting service.</p></div>"
+msgstr "<div id=\"message\" class=\"error\"><p>Este plugin requer que a cURL do PHP esteja habilitada. Saiba mais sobre a <a href=\"http://www.php.net/manual/pt_BR/book.curl.php\">cURL</a> e entre em contato com seu serviço de hospedagem.</p></div>"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:87
+msgid "Lomadee WP Ofertas Relacionadas"
+msgstr "Lomadee WP - Ofertas Relacionadas"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:88
+msgid "Lomadee Ofertas"
+msgstr "Lomadee Ofertas"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:195
+#: ../lomadee-wp-ofertas-relacionadas.php:468
+msgid "Source ID is invalid!"
+msgstr "Source ID inválido!"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:198
+#, php-format
+msgid "Lomadee WP - Ofertas Relacionadas: <strong>%s</strong> Go to <a href=\"%s\">Settings page</a> to configure it."
+msgstr "Lomadee WP - Ofertas Relacionadas: <strong>%s</strong> Vá para a <a href=\"%s\">página de configurações</a> do plugin."
+
+#: ../lomadee-wp-ofertas-relacionadas.php:200
+#, php-format
+msgid "Lomadee WP - Ofertas Relacionadas: <strong>%s</strong>"
+msgstr "Lomadee WP - Ofertas Relacionadas: <strong>%s</strong>"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:211
+msgid "Brazil"
+msgstr "Brasil"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:212
+msgid "Argentina"
+msgstr "Argentina"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:213
+msgid "Chile"
+msgstr "Chile"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:214
+msgid "Colombia"
+msgstr "Colômbia"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:215
+msgid "Mexico"
+msgstr "México"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:216
+msgid "Peru"
+msgstr "Peru"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:217
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:458
+msgid "The Source ID can't be empty!"
+msgstr "O Source ID não pode ser vazio!"
+
+#: ../lomadee-wp-ofertas-relacionadas.php:560
+msgid "Busca inteligente, compra consciente"
+msgstr "Busca inteligente, compra consciente"
+
+#~ msgid "Save"
+#~ msgstr "Salvar"
+
+#, fuzzy
+#~ msgid "Ofertas Relacionadas"
+#~ msgstr "Lomadee WP Ofertas Relacionadas"
+
+#~ msgid "BuscaPé WP Related Products"
+#~ msgstr "BuscaPé WP Produtos Relacionados"
+
+#~ msgid "à vista"
+#~ msgstr "à vista"

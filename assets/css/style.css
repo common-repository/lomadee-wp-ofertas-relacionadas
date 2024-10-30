@@ -1,0 +1,114 @@
+.lomadee-wp-related-offers {
+    width: 100% !important;
+    margin: 0 0 20px !important;
+    padding: 0 !important;
+}
+.lomadee-wp-related-offers img {
+    border: none !important;
+    width: 100px !important;
+}
+.lomadee-wp-related-offers-header {
+    background: #FFCC33 !important;
+    height: 50px !important;
+    line-height: 50px !important;
+    border-top: 5px solid #000 !important;
+    padding: 0 10px !important;
+}
+.lomadee-wp-related-offers-header h6 {
+    color: #fff !important;
+    font-size: 18px !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    text-align: right !important;
+    background: url(../images/buscape-branding.png) no-repeat left center !important;
+    margin: 0 !important;
+    padding: 10px 0 !important;
+    height: 30px !important;
+    line-height: normal !important;
+}
+.lomadee-wp-related-offers-list {
+    border: 1px solid #EBEBEB !important;
+    border-width: 0 1px 1px !important;
+    padding: 10px 20px 20px !important;
+    overflow: hidden !important;
+    border-bottom-right-radius: 10px !important;
+    border-bottom-left-radius: 10px !important;
+    -moz-border-radius-bottomright: 10px !important;
+    -moz-border-radius-bottomleft: 10px !important;
+    -webkit-border-bottom-right-radius: 10px !important;
+    -webkit-border-bottom-left-radius: 10px !important;
+}
+.lomadee-wp-related-offers-item {
+    border-right: 1px solid #EBEBEB !important;
+    width: 100px !important;
+    padding: 0 10px !important;
+    text-align: center !important;
+    float: left !important;
+}
+.lomadee-wp-related-offers-item-last {
+    border: none !important;
+    padding-right: 0 !important;
+}
+.lomadee-wp-related-offers-item-image {
+    min-height: 100px !important;
+    max-height: 100px !important;
+    margin: 20px 0 !important;
+    overflow: hidden !important;
+}
+.lomadee-wp-related-offers-item-data-name {
+    line-height: 100% !important;
+}
+.lomadee-wp-related-offers-item-data-name, .lomadee-wp-related-offers-item-data-pricev {
+    margin: 0 0 3px !important;
+    padding: 0 0 3px !important;
+    min-height: 50px;
+}
+.lomadee-wp-related-offers-item-data-name a {
+    color: #666 !important;
+    font-size: 12px !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    font-weight: normal !important;
+    text-decoration: none !important;
+    line-height: 100% !important;
+}
+.lomadee-wp-related-offers-item-data-pricev a {
+    color: #960000 !important;
+    font-size: 18px !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+    line-height: 120% !important;
+}
+.lomadee-wp-related-offers-item-data-pricev a span {
+    font-family: Arial, Verdana, sans-serif !important;
+    font-size: 12px !important;
+    display: block !important;
+    font-weight: normal !important;
+    color: #858585 !important;
+}
+.lomadee-wp-related-offers-item-button a {
+    width: 80px !important;
+    height: 23px !important;
+    border: 1px solid #D8D8D8 !important;
+    -moz-border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    border-radius: 3px !important;
+    display: block !important;
+    margin: 0 auto !important;
+    text-decoration: none !important;
+    color: #999 !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    text-align: center !important;
+    font-size: 12px !important;
+    text-transform: lowercase !important;
+    background: url(../images/bg-button.png) repeat-x !important;
+}
+.lomadee-wp-related-offers-links {
+    color: #CCC !important;
+    font-size: 10px !important;
+    font-family: Arial, Verdana, sans-serif !important;
+    float: right !important;
+}
+.lomadee-wp-related-offers-links a {
+    color: #CCC !important;
+    text-decoration: none !important;
+}
